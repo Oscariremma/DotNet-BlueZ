@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using HashtagChris.DotNetBlueZ.Extensions;
+using Oscariremma.DotNetBlueZ.Extensions;
 using Tmds.DBus;
 
-namespace HashtagChris.DotNetBlueZ
+namespace Oscariremma.DotNetBlueZ
 {
   public delegate Task DeviceChangeEventHandlerAsync(Adapter sender, DeviceFoundEventArgs eventArgs);
 

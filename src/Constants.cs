@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HashtagChris.DotNetBlueZ
+namespace Oscariremma.DotNetBlueZ
 {
     public static class BluezConstants
     {

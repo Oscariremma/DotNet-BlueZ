@@ -8,7 +8,7 @@ Uses [Tmds.DBus](https://github.com/tmds/Tmds.DBus) to access D-Bus. Tmds.DBus.T
 # Requirements
 
 * Linux
-* A recent release of BlueZ. This package was tested with BlueZ 5.50. You can check which version you're using with `bluetoothd -v`.
+* A recent release of BlueZ. This package was tested with BlueZ 5.64. You can check which version you're using with `bluetoothd -v`.
 
 # Installation
 
